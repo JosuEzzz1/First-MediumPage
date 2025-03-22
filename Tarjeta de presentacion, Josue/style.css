@@ -7,7 +7,7 @@ body {
 
 img {
    width: 160px;
-   height: 180px;
+   height: 190px;
    border-radius: 50%;
 
 }
@@ -122,19 +122,6 @@ li {
         box-shadow: none;
         outline: none;
     }
-}
-
-@media screen and (max-width: 800px) {
-
-    .containerCard {
-        width: 70%;
-
-    }
-    
-}
-
-
-@media screen and (max-width: 420px) {
     nav {
         position: relative;
         top: 0;
@@ -146,5 +133,4 @@ li {
     li {
         margin: 10px 0;
     }
-    
 }
